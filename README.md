@@ -26,7 +26,7 @@ This will look for a webserver avalible at *hostname* and by default will look f
 
 Script supports the following models / firmware files.
 
-    *modelFirmwares = {
+    modelFirmwares = {
         '7372' : 'ZF7372_104.0.0.0.1347.bl7',
         'r300' : 'R300_104.0.0.0.1347.bl7',
         'r500' : 'R500_104.0.0.0.1347.bl7',
@@ -34,7 +34,7 @@ Script supports the following models / firmware files.
         'h500' : 'H500_104.0.0.0.1347.bl7',
         'h510' : 'h510-114.0.0.0.6565.bl7',
         'r510' : 'R510_104.0.0.0.1347.bl7',
-    }*
+    }
 
 username and pass is the AP CLI username and password (not the SZ credentials)
 
